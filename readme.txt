@@ -1,2 +1,2 @@
 Git is a disturbuted version control system.
-Git is free software.git
+Git is free software.git under GRl.
