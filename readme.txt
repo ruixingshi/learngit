@@ -5,3 +5,5 @@ Git tracks changes.ti
 one more step
 
 Creating a new branch is quick.
+
+Give a new simple branch case.
