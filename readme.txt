@@ -7,3 +7,4 @@ one more step
 Creating a new branch is quick.
 
 give a easy case.
+Give a new simple branch case.
